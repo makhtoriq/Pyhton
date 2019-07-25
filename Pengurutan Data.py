@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[ ]:
-
-
 list=[] #deklarasi list sebagai array
 
 def swap(a,b):
